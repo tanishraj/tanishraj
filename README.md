@@ -1,16 +1,24 @@
-### Hi there 👋
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-<!--
-**tanishraj/tanishraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const Person = ({ name, jobTitle, country, technologies, hobbies }) => (
+  <p>
+    Hello, my name is {name}. I'm a {jobTitle} in ${country}. <br />
+    I love building things using {technologies}. <br />
+    My hobbies are {hobbies}. <br />
+    You can visit my personal site at: {personalSite} <br />
+    Nice to meet you!
+  </p>
+)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ReactDOM.render(
+  <Person
+    name='Tanishraj'
+    jobTitle='Front-end Engineer'
+    country='India'
+    technologies='Javascript and React'
+    hobbies='playing video games 🎮, exercising 🏃‍♂️.'
+    personalSite='https://github.com/tanishraj/tanishraj/'
+  />,
+  document.getElementById('root')
+)
