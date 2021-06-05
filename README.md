@@ -27,7 +27,7 @@ ReactDOM.render(
     country='India'
     technologies='Javascript and React'
     hobbies='playing video games 🎮, exercising 🏃‍♂️.'
-    personalSite='https://github.com/tanishraj/tanishraj/'
+    personalSite='https://github.com/tanishraj/'
   />,
   document.getElementById('root')
 )
