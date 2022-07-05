@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/5983943/116801020-7ce76a80-aadc-11eb-9128-92cc1f4d00fe.png" width="100px" align="center" />
 </p>
 <p align="center">
-  <a href="https://csilva2810.github.io/">Hi, I'm Tanish!</a>
+  <a href="https://github.com/tanishraj/">Hi, I'm Tanish!</a>
 </p>
 
 ```javascript
