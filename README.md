@@ -1,5 +1,5 @@
 # 💫 About Me:
-A highly motivated and results-oriented software engineer with 6+ years of experience in developing, and implementing web applications. Proven ability to work independently and as part of a team to deliver high-quality software on time. Skilled in a variety of front-end technologies, including React, Redux, Vue.js, Javascript. Passionate about creating innovative and user-friendly applications that solve real-world problems.
+Results-driven software engineer with 7.5 years of experience in developing and implementing web applications. Proven track record of leveraging React, Vue.js, and Next.js to create innovative and user-friendly applications that deliver measurable results, such as a 40% increase in cross-platform user engagement at CGI. Skilled in implementing Test Driven Development (TDD) methodology to ensure early error detection and improve code quality. Passionate about enhancing user satisfaction and accelerating feature deployment through Agile methodologies.
 
 
 ## 🌐 Socials:
