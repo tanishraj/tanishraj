@@ -23,8 +23,6 @@ Results-driven software engineer with 7.5 years of experience in developing and 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanishraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanishraj&icon=0&color=0)](https://visitcount.itsvg.in)
